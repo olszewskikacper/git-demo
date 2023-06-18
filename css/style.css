@@ -1,0 +1,39 @@
+ .body{
+    margin: 0;
+ }
+
+.nav-bar{
+    width: 100%;
+}
+
+.first-line{
+    height: 40px;
+    background:#00B4D8;
+}
+
+.second-line{
+    height: 50px;
+    background:#48CAE4 ;
+    padding: 0 0;
+}
+
+.second-line img{
+    height: 30px;
+}
+
+.menu-list{
+    list-style: none;
+    line-height: 50px;
+    margin: 0;
+    float: right;
+}
+
+.menu-list li{
+    display: inline;
+    margin: 0 20px 0 30px;
+    color: #03045E;
+}
+
+.nav-bar span span{
+    font-family:"";
+}
